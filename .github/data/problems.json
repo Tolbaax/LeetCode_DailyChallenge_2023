@@ -4789,6 +4789,10 @@
         {
             "day": "12",
             "title": "Apply Operations on Array to Maximize Sum of Squares"
+        },
+        {
+            "day": "14",
+            "title": "Maximize Sum of Squares of Digits"
         }
     ],
     "11- November": [
