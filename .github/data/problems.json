@@ -5283,6 +5283,10 @@
         {
             "day": "15",
             "title": "Number of Sub-arrays With Odd Sum"
+        },
+        {
+            "day": "16",
+            "title": "Calculate Digit Sum of a String"
         }
     ],
     "12- December": [
